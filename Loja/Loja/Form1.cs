@@ -33,8 +33,10 @@ namespace Loja
         {
             WindowState = FormWindowState.Maximized;
             MostrarMenu(0);
+            //DateTime.Now.ToString("HH:mm");
+            label1.Text = DateTime.Now.ToString("HH:mm");
 
-            
+
         }
 
         private void registoAvariasToolStripMenuItem_Click(object sender, EventArgs e)

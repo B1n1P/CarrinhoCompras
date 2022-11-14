@@ -86,7 +86,7 @@
             this.textBox2.Location = new System.Drawing.Point(304, 41);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 1;
+            this.textBox2.TabIndex = 2;
             // 
             // label4
             // 
@@ -104,7 +104,7 @@
             this.textBox3.Location = new System.Drawing.Point(202, 127);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(494, 23);
-            this.textBox3.TabIndex = 2;
+            this.textBox3.TabIndex = 3;
             // 
             // textBox4
             // 
@@ -112,7 +112,7 @@
             this.textBox4.Location = new System.Drawing.Point(202, 171);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(175, 23);
-            this.textBox4.TabIndex = 2;
+            this.textBox4.TabIndex = 4;
             // 
             // label6
             // 
@@ -130,7 +130,7 @@
             this.textBox5.Location = new System.Drawing.Point(464, 171);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(232, 23);
-            this.textBox5.TabIndex = 2;
+            this.textBox5.TabIndex = 5;
             // 
             // label7
             // 
@@ -155,7 +155,7 @@
             this.comboBox1.Location = new System.Drawing.Point(202, 248);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 3;
+            this.comboBox1.TabIndex = 6;
             // 
             // label5
             // 
@@ -172,7 +172,7 @@
             this.checkBox1.Location = new System.Drawing.Point(490, 248);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(104, 21);
-            this.checkBox1.TabIndex = 4;
+            this.checkBox1.TabIndex = 7;
             this.checkBox1.Text = "Garantia";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
