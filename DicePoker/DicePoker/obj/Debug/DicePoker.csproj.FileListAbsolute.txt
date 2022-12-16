@@ -1,0 +1,6 @@
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.csproj.AssemblyReference.cache
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.chkDados.resources
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.Properties.Resources.resources
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.csproj.GenerateResource.cache
+C:\Users\51523\source\repos\DicePoker\DicePoker\obj\Debug\DicePoker.csproj.CoreCompileInputs.cache

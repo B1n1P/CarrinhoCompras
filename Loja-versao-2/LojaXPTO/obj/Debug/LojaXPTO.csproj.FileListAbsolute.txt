@@ -1,0 +1,16 @@
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\bin\Debug\LojaXPTO.exe.config
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\bin\Debug\LojaXPTO.exe
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\bin\Debug\LojaXPTO.pdb
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.csproj.AssemblyReference.cache
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.Form1.resources
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.FormLogin.resources
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.FormRegistoAvarias.resources
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.FormsProdutos.resources
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.Properties.Resources.resources
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.csproj.GenerateResource.cache
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.csproj.CoreCompileInputs.cache
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.exe
+C:\Users\51523\Source\Repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.pdb
+C:\Users\51523\source\repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.FormListarProdutos.resources
+C:\Users\51523\source\repos\LojaXPTO-V1-T2\LojaXPTO\obj\Debug\LojaXPTO.FormCategoria.resources

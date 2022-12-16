@@ -1,0 +1,11 @@
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\bin\Debug\WindowsFormHello.exe.config
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\bin\Debug\WindowsFormHello.exe
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\bin\Debug\WindowsFormHello.pdb
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.csproj.AssemblyReference.cache
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.Properties.Resources.resources
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.csproj.GenerateResource.cache
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.csproj.CoreCompileInputs.cache
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.exe
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.pdb
+C:\Users\51523\source\repos\WindowsFormHello\WindowsFormHello\obj\Debug\WindowsFormHello.Form1.resources

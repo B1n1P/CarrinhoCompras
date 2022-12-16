@@ -1,0 +1,11 @@
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\bin\Debug\CongtroloTeste.exe.config
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\bin\Debug\CongtroloTeste.exe
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\bin\Debug\CongtroloTeste.pdb
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.csproj.AssemblyReference.cache
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.Form1.resources
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.Properties.Resources.resources
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.csproj.GenerateResource.cache
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.csproj.CoreCompileInputs.cache
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.exe
+C:\Users\51523\source\repos\CongtroloTeste\CongtroloTeste\obj\Debug\CongtroloTeste.pdb

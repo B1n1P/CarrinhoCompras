@@ -1,0 +1,15 @@
+C:\Users\51523\source\repos\Loja\Loja\bin\Debug\Loja.exe.config
+C:\Users\51523\source\repos\Loja\Loja\bin\Debug\Loja.exe
+C:\Users\51523\source\repos\Loja\Loja\bin\Debug\Loja.pdb
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.csproj.AssemblyReference.cache
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.Form1.resources
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.cache
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.exe
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.UserControl1.resources
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.Form2.resources
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.Form3.resources
+C:\Users\51523\source\repos\Loja\Loja\obj\Debug\Loja.Form4.resources

@@ -1,0 +1,8 @@
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\bin\Debug\PrimeirosProgramas.exe.config
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\bin\Debug\PrimeirosProgramas.exe
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\bin\Debug\PrimeirosProgramas.pdb
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\obj\Debug\PrimeirosProgramas.csproj.AssemblyReference.cache
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\obj\Debug\PrimeirosProgramas.csproj.SuggestedBindingRedirects.cache
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\obj\Debug\PrimeirosProgramas.csproj.CoreCompileInputs.cache
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\obj\Debug\PrimeirosProgramas.exe
+C:\Users\51523\source\repos\PrimeirosProgramas\PrimeirosProgramas\obj\Debug\PrimeirosProgramas.pdb
